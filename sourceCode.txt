@@ -1,0 +1,17 @@
+int main ( )
+ {
+    int number ;
+
+    cout << "Enter a number : " ;
+    cin >> number ;
+
+    int add = 5 ;
+
+    number = number + add * 10 ;
+
+    cout << "The value is: " << number << endl ;
+
+
+
+    return 0 ;
+ }
